@@ -8,7 +8,7 @@ class IndexRoute extends React.Component {
     return (
       <div>
         <Helmet>
-          <title>'OCE'</title>
+          <title>Riviera Di Ulisse in comune</title>
           <meta name="description" content={'Open Coop Ecosystem'} />
         </Helmet>
         <Hero/>
