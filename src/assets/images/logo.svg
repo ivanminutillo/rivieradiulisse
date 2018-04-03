@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="125px" height="18px" viewBox="0 0 125 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Artboard-Copy-2" stroke="#121E30" stroke-width="2">
+            <path d="M38.3612903,5.38709677 L30.2322581,13.516129" id="Shape"></path>
+            <path d="M30.2322581,5.38709677 L38.3612903,13.516129" id="Shape"></path>
+            <rect id="Rectangle-path" x="3" y="3.35483871" width="12.1935484" height="12.1935484" rx="2"></rect>
+            <polygon id="Shape" points="111.929032 3.35483871 121.412903 9.4516129 111.929032 15.5483871"></polygon>
+            <path d="M95.4270968,4.44548387 C94.7283223,3.74638132 93.7803838,3.353602 92.7919355,3.353602 C91.8034871,3.353602 90.8555487,3.74638132 90.1567742,4.44548387 L89.4387097,5.16354839 L88.7206452,4.44548387 C87.2652858,2.99012451 84.905682,2.99012453 83.4503226,4.44548391 C81.9949632,5.90084329 81.9949632,8.26044705 83.4503226,9.71580645 L84.1683871,10.433871 L89.4387097,15.7041935 L94.7090323,10.433871 L95.4270968,9.71580645 C96.1261993,9.01703199 96.5189786,8.0690935 96.5189786,7.08064516 C96.5189786,6.09219682 96.1261993,5.14425833 95.4270968,4.44548387 L95.4270968,4.44548387 Z" id="Shape"></path>
+            <ellipse id="Oval" cx="60.1741935" cy="9.4516129" rx="6.77419355" ry="6.77419355"></ellipse>
+        </g>
+    </g>
+</svg>
